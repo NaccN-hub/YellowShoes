@@ -43,3 +43,7 @@
     height: 70px;
     margin-top: 10px;
 }
+
+.fuenteGlobal {
+    font-family: 'Raleway', sans-serif;
+}
